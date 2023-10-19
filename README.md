@@ -25,10 +25,10 @@ PHP QR Code porting with logo and text
 * FGColor - Qrcode Foreground color (RGB)
 *
 * level
-* L - smallest
-* M - medium
-* Q - quality
-* H - best
+* - L - smallest
+* - M - medium
+* - Q - quality
+* - H - best
 *
 *
 * addText - add text in Qrcode
