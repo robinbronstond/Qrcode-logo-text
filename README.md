@@ -1,6 +1,5 @@
 # Qrcode-logo-text
 PHP QR Code porting with logo and text
-/*
 *
 * PHP QR Code porting with logo and text
 *
@@ -39,4 +38,3 @@ PHP QR Code porting with logo and text
 * 1 - 10
 *
 *
-*/
