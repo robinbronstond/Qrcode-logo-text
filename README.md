@@ -1,4 +1,8 @@
 # Qrcode-logo-text
+
+Generate QRCode with logo and textCreate QRCode image with add logo in center
+and add text word in qrcode Top , Center & Bottom position
+
 PHP QR Code porting with logo and text
 *
 * PHP QR Code porting with logo and text
